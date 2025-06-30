@@ -34,6 +34,7 @@ Perhitungan margin laba dilakukan dengan logika CASE sesuai rentang harga:
 [syntax_bigquery.sql](https://github.com/alifianiazkiyah/big-data-analytics-project/blob/main/sytax_bigquery)
 
 #### 📊 Visualisasi Data
+[visualisasi_data](https://lookerstudio.google.com/reporting/58484822-6eca-471a-a237-4f453f204482)
 
 #### Insight
 
