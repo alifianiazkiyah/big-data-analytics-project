@@ -36,14 +36,12 @@ Perhitungan margin laba dilakukan dengan logika CASE sesuai rentang harga:
 #### 📊 Visualisasi Data
 [visualisasi_data](https://lookerstudio.google.com/reporting/58484822-6eca-471a-a237-4f453f204482)
 
-#### 💡Insight
-
 #### Penutup
 Melalui project ini, data transaksi Kimia Farma berhasil diolah dan dianalisis secara sistematis mulai dari penggabungan tabel, perhitungan laba bersih, hingga visualisasi kinerja bisnis dalam bentuk dashboard. Hasil analisis ini memberikan gambaran performa cabang dan produk, serta tingkat kepuasan pelanggan sebagai dasar pengambilan keputusan strategis.
 
 ---
 
-Proyek ini merupakan bagian dari program pembelajaran di **Rakamin Academy** x **Kimia Farma** dalam pengembangan keterampilan analisis data berbasis kasus nyata industri.
+Project ini merupakan bagian dari program pembelajaran di **Rakamin Academy** x **Kimia Farma** dalam pengembangan keterampilan analisis data berbasis kasus nyata industri.
 
 Author:
 Alifiani Azkiyah | Administrasi & Data Enthusiast
